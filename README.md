@@ -1,0 +1,2 @@
+# RANSOMWARE-SAMPLES
+Ransomware samples
